@@ -1,0 +1,41 @@
+body{display: flex; 
+    flex-direction: row;gap: 20px;
+padding: 10px;}
+
+
+
+.box1 {
+    border: 2px;
+    border-style: solid;
+    color: black;
+    width: 35%;
+    height: 1000px;
+    background-color: #ffff00;
+    padding: 10px;
+}
+
+.big {display: flex; width: 60%;
+flex-direction: column;gap: 20px;}
+
+.box2 {
+   border: 2px; width: 100%;
+    border-style: solid;
+   
+    color: black;
+    height: 480px;
+    background-color: #04118f;
+    padding: 10px;
+}
+
+.box3 {
+    border: 2px; width: 100%;
+    border-style: solid;
+    color: black;
+    
+    height: 480px;
+   
+    background-color: #504e4a;
+    padding: 10px;
+}
+
+

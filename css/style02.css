@@ -1,0 +1,45 @@
+body {
+    display: flex;flex-direction: column;
+    gap: 20px;
+}
+
+
+.box1 {
+    border: 2px;
+    border-style: solid;
+    color: black;
+    height: 250px;
+    background-color: #ffc001;
+    padding: 10px;
+
+}
+
+.box2 {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+
+    border: 2px;
+    border-style: solid;
+    color: black;
+    height: 250px;
+    background-color: #bfbfbf;
+    padding: 10px;
+
+}
+
+.box3 {
+    border: 2px;
+    border-style: solid;
+    color: black;
+    height: 250px;
+    background-color: #2d9ae3;
+    padding: 10px;
+
+}
+
+
+body {
+    font-family: sans-serif;
+    font-size: large;
+}
